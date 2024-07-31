@@ -1,2 +1,2 @@
-# meuBlog3c
-Calisthenics
+# meuBlog3
+Calisthenic
